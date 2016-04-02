@@ -1,0 +1,28 @@
+name: Adam Ormsby
+favicon: null
+layout_spectrum: 0.38100647600367665
+typography_spectrum: 0.4851454000454396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.14187449915334582
+  lightness: 0.8866165822837502
+  saturation: 0.6522753646131605
+  rhythmicContrast: 0.6261448697187006
+purpose: []
