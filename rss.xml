@@ -4,8 +4,15 @@
         <description><![CDATA[Adam Ormsby]]></description>
         <link>https://thegrid.ai/adam-ormsby/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 22:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 22:35:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adam-ormsby/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GDC Speaker - Mecanim in Undertakers]]></title>
+            <description><![CDATA[<article><h1>GDC Speaker - Mecanim in Undertakers</h1><p>Because of my experience using the Mecanim animation tool provided with the Unity 3D game engine, I was invited to speak at the Tech Art Bootcamp held during the 2014 Game Developers Conference in San Francisco. I co-presented a postmortem on our use of Mecanim for implementing character animation on the Undertakers project developed in my final year of school.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ebebacc718ebd9c2223d1111c5974fcf57311bd.png"></article>]]></description>
+            <link>https://thegrid.ai/adam-ormsby/gdc-speaker-mecanim-in-undertakers/index.html</link>
+            <guid isPermaLink="false">3cc5e786-7d7f-4f3a-9292-bfbc93617656</guid>
+            <pubDate>Sun, 03 Apr 2016 22:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unannounced Project]]></title>
             <description><![CDATA[<article><h1>Unannounced Project</h1><p>August 2015 - Present</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/587235cd-1e79-4275-a9c6-250e4372c9d0.jpg"></article>]]></description>
